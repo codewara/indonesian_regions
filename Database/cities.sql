@@ -556,7 +556,7 @@ INSERT INTO `cities` VALUES
 (9505, 95, 'Kab. Mamberamo Tengah'),
 (9506, 95, 'Kab. Yalimo'),
 (9507, 95, 'Kab. Lanny Jaya'),
-(9508, 95, 'Kab. Nduga');
+(9508, 95, 'Kab. Nduga'),
 -- Papua Barat Daya
 (9201, 96, 'Kab. Sorong'),
 (9204, 96, 'Kab. Sorong Selatan'),
