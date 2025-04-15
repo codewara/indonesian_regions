@@ -563,4 +563,4 @@ INSERT INTO `cities` VALUES
 (9205, 96, 'Kab. Raja Ampat'),
 (9209, 96, 'Kab. Tambrauw'),
 (9210, 96, 'Kab. Maybrat'),
-(9271, 96, 'Kota Sorong'),
+(9271, 96, 'Kota Sorong');
